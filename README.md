@@ -8,6 +8,14 @@ with the model's uncertainty to tune the sample-informativeness heuristic to bet
 
 For more details about RAL, please check out our papers [1, 2].
 
+[1] *RAL – Improving Stream-Based Active Learning by Reinforcement Learning*  
+S. Wassermann, T. Cuvelier, P. Casas  
+in European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), Workshop on Interactive Adaptive Learning (IAL), Würzburg, Germany, 2019.
+
+[2] *ADAM & RAL: Adaptive Memory Learning and Reinforcement Active Learning for Network Monitoring*  
+S. Wassermann, T. Cuvelier, P. Mulinka, P. Casas  
+in International Conference on Network and Service Management (CNSM), Halifax, Canada, 2019.
+
 Authors
 -------
 * **Sarah Wassermann** - [homepage](http://wassermann.lu)
